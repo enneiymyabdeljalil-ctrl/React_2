@@ -1,52 +1,62 @@
-<div align="center">
+# React & Redux Coursework
 
-# React Portfolio
+A collection of practical React and Redux exercises completed during my Development Digital studies at OFPPT.
 
-### Abdeljalil Enneiymy — React & Frontend Coursework
+Each exercise is kept in a separate Git branch so that its code and progress remain independent.
 
-A collection of React learning projects organized into separate branches. Each branch contains one standalone project with its own source files and setup instructions.
+## Repository structure
 
-</div>
-
----
-
-## Projects
-
-| Branch | Project | Focus |
+| Branch | Area | Description |
 |---|---|---|
-| [`react-0`](../../tree/react-0) | React 0 — Components & JSX | JSX, reusable components, page sections |
-| [`react-2`](../../tree/react-2) | React 2 — Counter App | React components and state |
-| [`formulaire`](../../tree/formulaire) | React Formulaire | React form component |
+| [`react-counter`](../../tree/react-counter) | React | Counter practice |
+| [`react-0`](../../tree/react-0) | React | Introductory component-based page |
+| [`react-2`](../../tree/react-2) | React | Counter exercise |
+| [`tp1-react`](../../tree/tp1-react) | React | Practical work 1 |
+| [`tp2-react`](../../tree/tp2-react) | React | Practical work 2 |
+| [`tp3-react`](../../tree/tp3-react) | React | Practical work 3 |
+| [`tp4-react`](../../tree/tp4-react) | React | Practical work 4 |
+| [`tp5-react`](../../tree/tp5-react) | React | Practical work 5 |
+| [`formulaire`](../../tree/formulaire) | React Forms | Form component exercise |
+| [`tp6-redux`](../../tree/tp6-redux) | Redux | Practical work 6 |
+| [`tp7-redux`](../../tree/tp7-redux) | Redux | Practical work 7 |
+| [`tp8-redux`](../../tree/tp8-redux) | Redux | Practical work 8 |
 
-## Getting Started
+## Getting started
 
-Choose a project branch, clone the repository, then install and run the app:
+Clone the repository:
 
 ```bash
 git clone https://github.com/enneiymyabdeljalil-ctrl/React_2.git
 cd React_2
-git checkout react-2
+```
+
+Choose the branch you want to work on:
+
+```bash
+git switch tp6-redux
 npm install
 npm start
 ```
 
-Replace `react-2` with `react-0` or `formulaire` to work on another project.
+Replace `tp6-redux` with the branch you want to explore.
 
 ## Technologies
 
 - React
-- JavaScript / JSX
+- JavaScript and JSX
+- Redux
 - HTML5 and CSS3
 - npm
+- Git and GitHub
 
-## About
+## Learning goals
 
-These projects were developed as part of my frontend development learning journey at OFPPT, Morocco. The branches keep each exercise separate and easy to explore.
+- Build reusable React components.
+- Manage component state and user interactions.
+- Organize frontend projects.
+- Understand Redux fundamentals through practical exercises.
+- Use Git branches to keep coursework organized.
 
 ---
 
-<div align="center">
-
-*Learning by building, one project at a time.*
-
-</div>
+*Educational coursework — maintained as a learning portfolio.*
