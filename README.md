@@ -8,18 +8,18 @@ Each exercise is kept in a separate Git branch so that its code and progress rem
 
 | Branch | Area | Description |
 |---|---|---|
-| [`react-counter`](../../tree/react-counter) | React | Counter practice |
-| [`react-0`](../../tree/react-0) | React | Introductory component-based page |
-| [`react-2`](../../tree/react-2) | React | Counter exercise |
-| [`tp1-react`](../../tree/tp1-react) | React | Practical work 1 |
-| [`tp2-react`](../../tree/tp2-react) | React | Practical work 2 |
-| [`tp3-react`](../../tree/tp3-react) | React | Practical work 3 |
-| [`tp4-react`](../../tree/tp4-react) | React | Practical work 4 |
-| [`tp5-react`](../../tree/tp5-react) | React | Practical work 5 |
-| [`formulaire`](../../tree/formulaire) | React Forms | Form component exercise |
-| [`tp6-redux`](../../tree/tp6-redux) | Redux | Practical work 6 |
-| [`tp7-redux`](../../tree/tp7-redux) | Redux | Practical work 7 |
-| [`tp8-redux`](../../tree/tp8-redux) | Redux | Practical work 8 |
+| [`react-counter`](https://github.com/enneiymyabdeljalil-ctrl/React_2/tree/react-counter) | React | Counter practice |
+| [`react-0`](https://github.com/enneiymyabdeljalil-ctrl/React_2/tree/react-0) | React | Introductory component-based page |
+| [`react-2`](https://github.com/enneiymyabdeljalil-ctrl/React_2/tree/react-2) | React | Counter exercise |
+| [`tp1-react`](https://github.com/enneiymyabdeljalil-ctrl/React_2/tree/tp1-react) | React | Practical work 1 |
+| [`tp2-react`](https://github.com/enneiymyabdeljalil-ctrl/React_2/tree/tp2-react) | React | Practical work 2 |
+| [`tp3-react`](https://github.com/enneiymyabdeljalil-ctrl/React_2/tree/tp3-react) | React | Practical work 3 |
+| [`tp4-react`](https://github.com/enneiymyabdeljalil-ctrl/React_2/tree/tp4-react) | React | Practical work 4 |
+| [`tp5-react`](https://github.com/enneiymyabdeljalil-ctrl/React_2/tree/tp5-react) | React | Practical work 5 |
+| [`formulaire`](https://github.com/enneiymyabdeljalil-ctrl/React_2/tree/formulaire) | React Forms | Form component exercise |
+| [`tp6-redux`](https://github.com/enneiymyabdeljalil-ctrl/React_2/tree/tp6-redux) | Redux | Practical work 6 |
+| [`tp7-redux`](https://github.com/enneiymyabdeljalil-ctrl/React_2/tree/tp7-redux) | Redux | Practical work 7 |
+| [`tp8-redux`](https://github.com/enneiymyabdeljalil-ctrl/React_2/tree/tp8-redux) | Redux | Practical work 8 |
 
 ## Getting started
 
